@@ -1,0 +1,22 @@
+.btn-form {
+    width: 20%;
+    margin: 5px;
+    background: -moz-linear-gradient(#D0ECF4, #422092, #D0ECF4);
+   background: -webkit-gradient(linear, 0 0, 0  100%, from(#D0ECF4), to(#D0ECF4), color-stop(0.5, #a8a1e7));
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00BBD6', endColorstr='#EBFFFF');
+    color: #333;
+    border-radius: 5px;
+    border: 1px solid rgb(82, 74, 74);
+    font-family: cursive;
+    font-size: inherit;
+}
+
+.btn-form:active {
+    background: darkgray;
+    color: mediumblue;
+}
+
+.blockform {
+    display: flex;
+    
+}

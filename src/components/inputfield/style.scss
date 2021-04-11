@@ -1,0 +1,26 @@
+.input {
+    width: 90%;
+    background-color: #e7e7e7; color: black;
+    border-radius: 12px;;
+    color: black;
+    padding: 12px;
+    text-align: center;
+    font-size: 14px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border: 2px solid #4c53af;
+}
+
+.btn-field {
+    margin: 5px;
+    padding: 5px;
+    text-align: center;
+    font-size: 14px;
+    width: 30%;
+    background-color: rgb(214, 214, 214);
+    border: 2px solid #4c53af;
+}
+
+.btn-field:hover {
+    border: 2px solid #5c126b;
+    color: blue;
+}

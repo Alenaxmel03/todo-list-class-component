@@ -1,0 +1,41 @@
+.item {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 10px;
+    padding: 40px;
+    
+    font-family:inherit;
+    font-size: 24px;
+    position: relative;
+    
+    
+}
+.item:hover {
+    background-color: rgb(183, 172, 211);
+}
+.btn{
+    width: 110px;
+    padding: 5px 10px 5px 10px; 
+       color: black;
+    border-color: darkorchid;
+       margin: 10px;
+       
+    
+  
+  
+}
+.btn:hover {
+    border-color: rgb(220, 197, 231);
+    color: rgb(54, 54, 223); 
+    
+}
+
+.block-btn {
+   
+    position: absolute;
+    top: 30px;
+    right: 0
+}
+
+
